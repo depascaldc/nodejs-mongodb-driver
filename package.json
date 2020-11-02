@@ -1,0 +1,26 @@
+{
+    "name": "nodejs-mongodb-driver",
+    "version": "1.0.0",
+    "description": "A Simple to use MongoDB Driver for NodeJS",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/depascaldc/nodejs-mongodb-driver"
+    },
+    "keywords": [
+        "mongodb",
+        "nodejs-mongodb",
+        "databasehandler",
+        "mongodb-handler",
+        "dbhandler",
+        "mongodb-wrapper"
+    ],
+    "author": "depascaldc",
+    "license": "GPL-3.0",
+    "dependencies": {
+        "mongodb": "^3.6.2"
+    }
+}
